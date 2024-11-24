@@ -687,4 +687,3 @@ while True:
         sleep(2)
         limpar_tela()
         continue
-    
